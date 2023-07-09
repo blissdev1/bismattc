@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bismattc/static/css/main.25b87302.css",
+    "main.js": "/bismattc/static/js/main.737005d5.js",
+    "index.html": "/bismattc/index.html",
+    "main.25b87302.css.map": "/bismattc/static/css/main.25b87302.css.map",
+    "main.737005d5.js.map": "/bismattc/static/js/main.737005d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b87302.css",
+    "static/js/main.737005d5.js"
+  ]
+}
